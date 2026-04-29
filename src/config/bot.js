@@ -24,7 +24,7 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        // client.user.setActivity("Dota 2 | UA Community", { type: "PLAYING" });
+        client.user.setActivity("Dota 2 | UA Community", { type: "PLAYING" });
         // Activity type number (0 = Playing).
         type: 0, 
       },
